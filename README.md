@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mohammad Mahdi 👋
 
 I'm a Python developer who enjoys building clean, useful, and well‑structured projects.  
 I share my learning journey and the tools I create here on GitHub.
