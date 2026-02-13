@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**bluelifemmd2007-cell/bluelifemmd2007-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer who enjoys building clean, useful, and well‑structured projects.  
+I share my learning journey and the tools I create here on GitHub.
 
-Here are some ideas to get you started:
+### 🚀 What I build
+- Small but practical tools
+- Organized and readable Python projects
+- Simple web apps using Flask
+- Automation scripts that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I use
+- Python  
+- Flask  
+- Git & GitHub  
+- Clean Code principles  
+
+### 🌐 Social Accounts
+- LinkedIn: https://www.linkedin.com/in/mohammad-mahdi-mohammadi-864822385
+- Instagram: https://www.instagram.com/mmd_m2007
+- Telegram: https://t.me/MMD_MM10
+
+### 📂 Featured Projects
+- **Smart File Organizer** – A structured tool for organizing files automatically  
+- **Instagram Web App** – A simple Flask-based web application  
+
+Always learning, always building.
+
